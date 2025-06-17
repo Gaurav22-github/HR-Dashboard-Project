@@ -1,6 +1,6 @@
 # Project Name: Masu Consultancy Web App
 
-LIVE Demo --    
+LIVE Demo --    https://hr-dashboard-project-gaurav.netlify.app/
 
 ## 📌 Project Overview
 Masu Consultancy is a modern and responsive web application designed to manage and display company subscription plans efficiently. The application consists of a two-page layout with a focus on user-friendly navigation, an interactive sidebar, and a clean UI for managing active and expired subscription plans.
